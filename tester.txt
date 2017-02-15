@@ -8,7 +8,7 @@ a
 
 b
 
-c
+It's Gone!
 
 d
 
